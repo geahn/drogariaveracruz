@@ -72,6 +72,8 @@ body {
 
 .banner {
 	padding: 15px;
+	max-width: 430px;
+    	margin: 0 auto;
 }
 
 .banner img {
